@@ -201,10 +201,11 @@ function Pillar() {
                 <h3 className="text-2xl font-bold mb-3">2.1 Market Size and Growth Projections</h3>
                 <p>
                   Malawi's e-commerce sector, while still in its nascent stages, is experiencing notable growth and development. According to market data and economic analyses, the overall trajectory is positive, with several key indicators pointing toward continued expansion in the coming years.
+                  see more on <a href="/blog" className="underline text-blue-600">How to Start an Online Business in Malawi</a>
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
                   <div className="stat-card">
-                    <div className="stat-number">\$420.26M</div>
+                    <div className="stat-number">MWK420.26M</div>
                     <p>Projected e-commerce revenue in Malawi by 2025</p>
                     <div className="citation">Source: Statista, 2025</div>
                   </div>
@@ -214,7 +215,7 @@ function Pillar() {
                     <div className="citation">Source: Statista, 2025</div>
                   </div>
                   <div className="stat-card">
-                    <div className="stat-number">\$584.55M</div>
+                    <div className="stat-number">MWK584.55M</div>
                     <p>Projected market volume by 2029</p>
                     <div className="citation">Source: Statista, 2025</div>
                   </div>

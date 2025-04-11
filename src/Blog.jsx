@@ -46,11 +46,11 @@ function Blog() {
 
         <section id="introduction">
             <h2>Introduction to E-commerce in Malawi</h2>
-            <p>The digital landscape in Malawi is experiencing significant transformation as more businesses and consumers embrace online commerce. Despite having one of the lowest internet penetration rates in Africa—approximately 30% in urban areas and 15% nationwide—the e-commerce sector is showing promising signs of growth. According to Statista's projections, Malawi's e-commerce market is expected to reach US$420.26 million by 2025, with an annual growth rate (CAGR) of 8.60% from 2025 to 2029.</p>
+            <p>The digital landscape in Malawi is experiencing significant transformation as more businesses and consumers embrace online commerce. Despite having one of the lowest internet penetration rates in Africa—approximately 30% in urban areas and 15% nationwide—the e-commerce sector is showing promising signs of growth. According to Statista's projections, Malawi's e-commerce market is expected to reach MWK420.26 million by 2025, with an annual growth rate (CAGR) of 8.60% from 2025 to 2029.</p>
             
             <p>This growth is being driven by several factors: increasing mobile phone penetration, expanding internet access, the growing adoption of mobile money services, and changing consumer behaviors, particularly among the younger urban population. Currently, over 10.1 million Malawians are registered for mobile money services, with about 60% regularly using these platforms for transactions.</p>
             
-            <p>Starting an online business in Malawi represents an opportunity to tap into this emerging market, but it also comes with unique challenges. This guide provides a comprehensive roadmap for entrepreneurs looking to establish an e-commerce presence in Malawi, covering everything from legal requirements and infrastructure needs to marketing strategies and common pitfalls to avoid.</p>
+            <p> Starting an online business in Malawi represents an opportunity to tap into this emerging market, but it also comes with unique challenges. This guide provides a comprehensive roadmap for entrepreneurs looking to establish an e-commerce presence in Malawi, covering everything from legal requirements and infrastructure needs to marketing strategies and common pitfalls to avoid.</p>
         </section>
 
         <section id="market-overview">
@@ -59,7 +59,7 @@ function Blog() {
             <p>Before launching an online business in Malawi, it's crucial to understand the market dynamics and identify viable opportunities. The e-commerce landscape in Malawi is characterized by:</p>
             
             <h3>Market Size and Growth</h3>
-            <p>Malawi's e-commerce market is projected to grow to US$584.55 million by 2029, with electronics standing as the largest segment at approximately 24.8% of total revenue, followed by hobby and leisure goods at 20.8%. This consistent growth trajectory indicates increasing consumer comfort with online shopping.</p>
+            <p>Malawi's e-commerce market is projected to grow to MWK584.55 million by 2029, with electronics standing as the largest segment at approximately 24.8% of total revenue, followed by hobby and leisure goods at 20.8%. This consistent growth trajectory indicates increasing consumer comfort with online shopping.</p>
             
             <h3>Consumer Behavior</h3>
             <p>Malawian online shoppers typically have these characteristics:</p>
